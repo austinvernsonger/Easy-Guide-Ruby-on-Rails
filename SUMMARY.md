@@ -1,7 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* Ruby Programming Language
+* [Ruby Programming Language](ruby-programming-language.md)
+    * Working with Strings
+    * Working with Numbers
+    * Methods and Branching
+    * Arrays and Iterators
+    * Hashes
+    * Inheritance and Modules
 * Intro to Ruby on Rails
 * CRUD operations in Ruby on Rails
 * Styling

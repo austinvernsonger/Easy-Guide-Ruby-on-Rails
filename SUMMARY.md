@@ -14,7 +14,11 @@
     * Root Route, git, and version control
     * Deployment
     * CRUD, Scaffold and Wrap
-* CRUD operations in Ruby on Rails
+* [CRUD operations in Ruby on Rails](crud-operations-in-ruby-on-rails.md)
+    * Models, Migrations, and Rails Console
+    * Edit, Delete, and Validations
+    * Destroy and Partials
+    * Deploy and Wrap
 * Styling
 * Associations and Authentication Systems
 * Many-to-Many Associations and Automated Testing

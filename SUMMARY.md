@@ -55,6 +55,14 @@
     * [Integration](integration.md)
         * [Test and Features](test-and-features.md)
         * Test for Invalid Category
+    * Fix List Categories Test
+    * Admin User Requirements
+    * Update Tests and Navbar
+    * Build Article and Category Association
+    * Add Association from User Interface
+    * Update Views
+    * Edit Categories
+    * Deploy to Production and Wrap
 * [Projects](projects.md)
     * [Stock Trackers](stock-trackers.md)
     * [Email, Custom Payments and File Uploads](email-custom-payments-and-file-uploads.md)

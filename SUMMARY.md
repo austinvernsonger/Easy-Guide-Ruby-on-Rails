@@ -8,7 +8,12 @@
     * Arrays and Iterators
     * Hashes
     * Inheritance and Modules
-* Intro to Ruby on Rails
+* [Intro to Ruby on Rails](intro-to-ruby-on-rails.md)
+    * MVC and Rails App Structure
+    * Route, Controller, and Home
+    * Root Route, git, and version control
+    * Deployment
+    * CRUD, Scaffold and Wrap
 * CRUD operations in Ruby on Rails
 * Styling
 * Associations and Authentication Systems

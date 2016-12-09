@@ -31,6 +31,21 @@
     * [Users](users.md)
         * Create Users
         * Add User Validations
+        * One-to-many Association
+        * Show User Info
+        * Add Secure Password
+        * New User Signup
+        * Edit Users
+        * Show User and Profile Image
+        * Add User Index
+        * Add Login Form
+        * Create and Destroy Sessions
+    * [Authentication](authentication.md)
+        * Methods
+        * Restrict Actions from User Interface
+        * Sign ip upon Sign Up
+        * Add Admin User Functionality
+        * Complete Admin User and Wrap
 * Many-to-Many Associations and Automated Testing
 * [Projects](projects.md)
     * [Stock Trackers](stock-trackers.md)

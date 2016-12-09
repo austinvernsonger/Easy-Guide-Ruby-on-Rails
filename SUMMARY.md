@@ -46,7 +46,15 @@
         * Sign ip upon Sign Up
         * Add Admin User Functionality
         * Complete Admin User and Wrap
-* Many-to-Many Associations and Automated Testing
+* [Many-to-Many Associations and Automated Testing](many-to-many-associations-and-automated-testing.md)
+    * [Category](category.md)
+        * Model
+        * Unit Tests
+        * Controller
+        * Tests
+    * [Integration](integration.md)
+        * [Test and Features](test-and-features.md)
+        * Test for Invalid Category
 * [Projects](projects.md)
     * [Stock Trackers](stock-trackers.md)
     * [Email, Custom Payments and File Uploads](email-custom-payments-and-file-uploads.md)

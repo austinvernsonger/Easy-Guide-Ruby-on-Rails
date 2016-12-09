@@ -19,7 +19,14 @@
     * Edit, Delete, and Validations
     * Destroy and Partials
     * Deploy and Wrap
-* Styling
+* [Styling](styling.md)
+    * Bootstrap
+    * Homepage
+    * Style Form Template
+    * Style Messages
+    * Style Show View
+    * Style List View
+    * Deploy to Production and Wrap
 * Associations and Authentication Systems
 * Many-to-Many Associations and Automated Testing
 * [Projects](projects.md)

@@ -27,7 +27,10 @@
     * Style Show View
     * Style List View
     * Deploy to Production and Wrap
-* Associations and Authentication Systems
+* [Associations and Authentication Systems](associations-and-authentication-systems.md)
+    * [Users](users.md)
+        * Create Users
+        * Add User Validations
 * Many-to-Many Associations and Automated Testing
 * [Projects](projects.md)
     * [Stock Trackers](stock-trackers.md)
